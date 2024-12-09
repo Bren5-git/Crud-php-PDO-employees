@@ -1,0 +1,10 @@
+git php:
+1. Create a public repository on github (i.e. CRUD-php-PDO-employees.git)
+2. Take care of the exaples (*)
+3. On Control Version item (VSC) click on Download Git Fro Linux
+4. Follow the first step in the web: sudo apt-get install git
+5. You could close and open again the VSC and see the Control Version item
+6. Initialize the repository
+7. Make our first commit
+8. remote --> add remote (copy the url of repository)
+9. we must the allow to enter with our acount 
